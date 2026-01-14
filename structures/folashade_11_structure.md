@@ -2,7 +2,8 @@
 
 ## What I See in My Data
 [Describe the codes, letters, numbers]
-## I see instructions on a fixed number of corners (4), height (2 units) and top size of 3X3. A type label: Elevated platform and a single colour, orange.
+## I see an elevated platform with a hole in the middle.
+
 ## What I Think This Means
 [Interpret the patterns]
 ## I think it is giving instructions on construction rules for building LEGO structures. The corners and heights represent pillars while the top is the roof.
@@ -14,3 +15,4 @@
 
 ## Questions I Have
 [What don't you know yet?]
+## How does this relate to data?
